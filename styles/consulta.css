@@ -1,0 +1,6 @@
+body {
+    background-image: url('../images/detective-pikachu.jpg');
+    background-size: cover;
+    font-family: "Roboto", sans-serif;
+    font-size: 2em;
+}
