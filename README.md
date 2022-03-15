@@ -3,7 +3,7 @@ Este repositorio trata de un pokedex en la que puedes introducir todos los pokem
 
 ## Funcionamiento
 Para empezar tenemos el login el cual comprueba los datos introducidos para poder entrar en la página principal.
-![image](https://user-images.githubusercontent.com/91873656/155381710-03716029-21d8-4941-a6d5-8140ffd66c6f.png)
+![image](https://user-images.githubusercontent.com/91873656/158355402-1ee99366-9499-4d23-9069-d2dcad1eec95.png)
 
 Podemos comprobar que cuando introducimos mal algún dato en el login, salta un mensaje de error.
 ![image](https://user-images.githubusercontent.com/91873656/155383836-4b0ff0f3-e2d2-4c5b-9366-0d0f4bd19ae6.png)
