@@ -5,11 +5,9 @@ Este repositorio trata de un pokedex en la que puedes introducir todos los pokem
 Para empezar tenemos el login el cual comprueba los datos introducidos para poder entrar en la página principal.
 ![image](https://user-images.githubusercontent.com/91873656/158355402-1ee99366-9499-4d23-9069-d2dcad1eec95.png)
 
-Podemos comprobar que cuando introducimos mal algún dato en el login, salta un mensaje de error.
-![image](https://user-images.githubusercontent.com/91873656/155383836-4b0ff0f3-e2d2-4c5b-9366-0d0f4bd19ae6.png)
+Luego, podemos ver la tabla con las opciones mencionadas anteriormente, además de poder cerrar sesión en el apartado que menciona el usuario iniciado arriba a la izquierda. La tabla contiene el número de la pokedex del pokemon, los nombres, la generación en la que salieron (solo hay 8), el tipo y el género(hay pokemons que no tienen género definido).
+![image](https://user-images.githubusercontent.com/91873656/158355608-d9b75b37-2def-4609-b533-f98600c008bf.png)
 
-Luego, podemos ver la tabla con las opciones mencionadas anteriormente, además de poder cerrar sesión en el apartado que menciona el usuario iniciado arriba a la izquierda. La tabla contiene el número de la pokedex del pokemon, los nombres, la generación en la que salieron (solo hay 8), el tipo y el género(hay pokemons que no tienen género definido). 
-![image](https://user-images.githubusercontent.com/91873656/155384101-674a53d4-1820-4b71-b15d-73d793f03595.png)
 
 ### Modificar
 Si le damos a modificar nos manda a otra pestaña en la que podemos cambiar los datos que queramos y luego nos dirá si los datos se an guardado correctamente.
